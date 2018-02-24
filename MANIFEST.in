@@ -1,0 +1,6 @@
+include LICENSE
+include README.md
+include requirements.txt
+recursive-include workflows/static/workflows/css *
+recursive-include workflows/templates/workflows/admin *
+recursive-include workflows/templates/workflows/email *

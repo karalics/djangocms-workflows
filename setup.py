@@ -33,7 +33,7 @@ setup(
     install_requires=requirements,
     keywords=['django', 'Django CMS', 'workflow', 'bootstrap', 'website', 'CMS'],
     classifiers=[
-        'Development Status :: 3 -Alpha',
+        'Development Status :: 3 - Alpha',
         'Framework :: Django',
         'Environment :: Web Environment',
         'License :: OSI Approved :: MIT License',
